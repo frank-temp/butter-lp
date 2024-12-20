@@ -1,0 +1,113 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    font-family: 'area-normal', sans-serif;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 125%;
+    text-transform: capitalize;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+h5 {
+    font-size: 22px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 125%;
+}
+
+.body-small {
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 125%;
+}
+
+span {
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: normal;
+}
+
+.btn-txt {
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+}
+
+.icon-tooltip {
+    position: absolute;
+    border-radius: 4px;
+    padding: 8px 4px;
+    font-size: 10px;
+    white-space: nowrap;
+    top: -40px;
+    left: -5px;
+    opacity: 0;
+    transition: all ease .4s;
+}
+
+.tooltip-toggle:hover .icon-tooltip {
+    opacity: 1;
+    transition: all ease .4s;
+}
+
+.main-layout {
+    display: grid;
+    height: 100dvh;
+    grid-template-rows: auto 1fr auto;
+}
+
+.mega-menu {
+    opacity:0;
+    visibility:hidden;
+    z-index: -900;
+    position: absolute;
+    transition: all 0.15s linear 0s;
+}
+
+.hoverable {
+    position: static;
+}
+
+.hoverable:hover .mega-menu {
+    opacity:1;
+    visibility:visible;
+    z-index: 900;
+}
+
+.svg-arrow {
+    transition: all 0.15s linear 0s;
+}
+
+.hoverable:hover .svg-arrow {
+    transform: rotate(180deg);
+    transition: all 0.15s linear 0s;
+}
+
+.bg-gradient-yellow {
+    background: radial-gradient(45.35% 45.35% at 50% 50%, rgba(249, 215, 73, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%), #FFF;
+}
+
+.bg-gradient-blue {
+    background: radial-gradient(49.89% 49.89% at 50% 50%, #D7DEF6 0%, #FFF 100%);
+}
