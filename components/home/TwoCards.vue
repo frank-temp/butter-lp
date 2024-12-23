@@ -5,7 +5,7 @@
             <div class='flex flex-row justify-center gap-10'>
                 <div class='bg-blue-dark text-white-default p-8 flex flex-col rounded-[10px]'>
                     <div>
-                        <h5 class='mb-6'>Marketers</h5>
+                        <h4 class='mb-6'>Marketers</h4>
                         <ul class='flex flex-col gap-3'>
                             <li class='flex flex-row items-center gap-1'>
                                 <SvgCheckMark />
@@ -50,7 +50,7 @@
                 </div>
                 <div class='bg-blue-light text-blue-dark p-8 flex flex-col rounded-[10px]'>
                     <div>
-                        <h5 class='mb-6'>Developers</h5>
+                        <h4 class='mb-6'>Developers</h4>
                         <ul class='flex flex-col gap-3'>
                             <li class='flex flex-row items-center gap-1'>
                                 <SvgCheckMark />

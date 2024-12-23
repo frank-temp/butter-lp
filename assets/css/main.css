@@ -7,6 +7,31 @@
     font-family: 'area-normal', sans-serif;
 }
 
+details >summary {
+    list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+    display:none;
+}
+
+.i-minus {display: none;}
+
+details.mobile-accordion[open] summary > .i-minus {
+    display: block;
+}
+
+details.mobile-accordion[open] summary > .i-plus {
+    display: none;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 125%;
+    text-transform: capitalize;
+}
+
 h2 {
     font-size: 48px;
     font-weight: 800;
@@ -15,14 +40,20 @@ h2 {
 }
 
 h4 {
+    font-size: 22px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+h5 {
     font-size: 20px;
     font-weight: 800;
     line-height: normal;
 }
 
 h5 {
-    font-size: 22px;
-    font-weight: 800;
+    font-size: 14px;
+    font-weight: 700;
     line-height: normal;
 }
 
@@ -33,6 +64,43 @@ p {
     line-height: 125%;
 }
 
+span {
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+}
+
+.heading {
+    font-size: 14px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 125%;
+    text-transform:  capitalize;
+}
+
+.inline-link {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.body {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 120%;
+    font-style: normal;
+}
+
+.body-light {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: normal;
+    font-style: normal;
+}
+
 .body-small {
     font-size: 16px;
     font-weight: 300;
@@ -40,18 +108,27 @@ p {
     line-height: 125%;
 }
 
-span {
-    font-size: 16px;
-    font-weight: 300;
-    font-style: normal;
-    line-height: normal;
-}
-
 .btn-txt {
     font-size: 16px;
     font-weight: 700;
     font-style: normal;
     line-height: normal;
+    white-space: nowrap;
+    text-transform: capitalize;
+}
+
+.btn-txt-w-icon {
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+    white-space: nowrap;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
 }
 
 .icon-tooltip {
@@ -110,4 +187,16 @@ span {
 
 .bg-gradient-blue {
     background: radial-gradient(49.89% 49.89% at 50% 50%, #D7DEF6 0%, #FFF 100%);
+}
+
+.bg-gradient-blue-lg {
+    background: radial-gradient(50% 50% at 50% 50%, #D7DEF6 0%, #F3F3F5 100%);
+}
+
+@media (max-width: 768px) {
+    h2 {font-size: 28;}
+
+    .body, .inline-link {
+        font-size: 12px;
+    }
 }

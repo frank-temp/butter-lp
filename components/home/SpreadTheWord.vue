@@ -7,11 +7,11 @@
             </div>
             <div class='grid grid-cols-3 w-full gap-8'>
                 <div class='bg-blue-light p-8 rounded-lg flex flex-col gap-4'>
-                    <h4 class='text-blue-dark'>Effortless Content Management</h4>
+                    <h5 class='text-blue-dark'>Effortless Content Management</h5>
                     <p class='body-small text-grey-default'>Simple, intuitive tools that make managing and optimizing content a breeze.</p>
                 </div>
                 <div class='bg-blue-light p-8 rounded-lg flex flex-col gap-4'>
-                    <h4 class='text-blue-dark'>Lightning-Fast Setup</h4>
+                    <h5 class='text-blue-dark'>Lightning-Fast Setup</h5>
                     <p class='body-small text-grey-default'>Launch your site 50% faster with best-in-class implementation and onboarding support.</p>
                 </div>
                 <div class='bg-blue-light p-8 rounded-lg flex flex-col gap-4'>
@@ -19,7 +19,7 @@
                     <p class='body-small text-grey-default'>Compatible with all frameworks, supported by starter projects and SDKs</p>
                 </div>
                 <div class='bg-blue-light p-8 rounded-lg col-span-2 flex flex-col gap-4'>
-                    <h4 class='text-blue-dark'>Seamless Integrations</h4>
+                    <h5 class='text-blue-dark'>Seamless Integrations</h5>
                     <p class='body-small text-grey-default'>Robust APIs enable easy connections to CRM, eCommerce, and other systems for dynamic content updates.</p>
                     <div class='flex flex-row items-center gap-4'>
                         <div class='flex items-center justify-center'>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <div class='bg-blue-light p-8 rounded-lg flex flex-col gap-4'>
-                    <h4 class='text-blue-dark'>Industry-Leading Support</h4>
+                    <h5 class='text-blue-dark'>Industry-Leading Support</h5>
                     <p class='body-small text-grey-default'>Benefit from top-tier support with rapid response times, backed by a large base of satisfied global customers.</p>
                 </div>
             </div>
