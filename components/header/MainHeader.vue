@@ -9,8 +9,8 @@
                     </a>
                     <desktop-header-menu />
                     <ul class='hidden md:flex flex-row gap-x-2 w-screen items-center justify-center'>
-                        <li><a class='btn-txt bg-yellow-default hover:bg-white-default text-blue-dark px-6 py-3 rounded-full cursor-pointer'>Book a demo</a></li>
-                        <li><a class='btn-txt-w-icon bg-yellow-default hover:bg-white-default text-blue-dark px-6 py-3 rounded-full cursor-pointer'>get started <SvgNextArrow /></a></li>
+                        <li><a class='btn-txt bg-yellow-default hover:bg-white-default text-blue-dark px-6 py-3 rounded-full cursor-pointer' href='/'>Book a demo</a></li>
+                        <li><a class='btn-txt-w-icon bg-yellow-default hover:bg-white-default text-blue-dark px-6 py-3 rounded-full cursor-pointer' href='/'>get started <SvgNextArrow /></a></li>
                     </ul>
                     <mobile-header-menu />
                 </div>

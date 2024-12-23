@@ -4,8 +4,8 @@
             <h2 class='text-center'>Start Building Butter Today</h2>
             <p>Free 14-day trial. Set up and live in no time.</p>
             <article class='flex flex-col md:flex-row items-center gap-x-6 max-w-[900px] gap-y-4'>
-                <a href='#' class='btn-txt bg-blue-dark capitalize text-white-default w-[100%] px-24 py-4 rounded-[100px] text-center'>book a demo</a>
-                <a href='#' class='btn-txt bg-blue-dark capitalize text-white-default w-[100%] min-w-fit md:min-w-[328px] px-2 py-4 rounded-[100px] text-center'>Start Your 14-Day Free Trial</a>
+                <a href='/' class='btn-txt bg-blue-dark capitalize text-white-default w-[100%] px-24 py-4 rounded-[100px] text-center'>book a demo</a>
+                <a href='/' class='btn-txt bg-blue-dark capitalize text-white-default w-[100%] min-w-fit md:min-w-[328px] px-2 py-4 rounded-[100px] text-center'>Start Your 14-Day Free Trial</a>
             </article>
         </div>
     </section>

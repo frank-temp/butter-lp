@@ -125,7 +125,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <a class='mt-6 mb-5 bg-yellow-default text-center text-blue-dark btn-txt py-4 rounded-full cursor-pointer'>Why Marketers Love Butter</a>
+                        <a class='mt-6 mb-5 bg-yellow-default text-center text-blue-dark btn-txt py-4 rounded-full cursor-pointer' href='/'>Why Marketers Love Butter</a>
                         <div class='flex flex-row items-start md:items-center gap-2'>
                             <div class='flex items-center justify-center'>
                                 <div class='relative tooltip-toggle min-w-[38px]'>
@@ -172,7 +172,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <a class='mt-6 mb-5 bg-blue-dark text-center text-white-default btn-txt py-4 rounded-full cursor-pointer'>Start Building with Butter</a>
+                        <a class='mt-6 mb-5 bg-blue-dark text-center text-white-default btn-txt py-4 rounded-full cursor-pointer' href='/'>Start Building with Butter</a>
                         <div class='flex flex-row items-center gap-2'>
                             <div class='flex items-center justify-center'>
                                 <div class='relative tooltip-toggle min-w-[38px]'>

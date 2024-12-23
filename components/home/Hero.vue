@@ -5,8 +5,8 @@
                 <h1><ins class='underline underline-offset-8 decoration-[4px] md:decoration-[8px] decoration-yellow-default'>Smooth</ins> Content Management</h1>
                 <p>Crafted by developers for everyone, Butter CMS lets you create, manage and scale content smoothly.</p>
                 <div class='w-full flex flex-col md:flex-row gap-3 mt-2'>
-                    <a class='btn-txt bg-blue-dark text-white-default rounded-full py-4 w-full text-center'>Why Marketers Love Butter</a>
-                    <a class='btn-txt bg-blue-dark text-white-default rounded-full py-4 w-full text-center'>Start Building with Butter</a>
+                    <a class='btn-txt bg-blue-dark text-white-default rounded-full py-4 w-full text-center' href='/'>Why Marketers Love Butter</a>
+                    <a class='btn-txt bg-blue-dark text-white-default rounded-full py-4 w-full text-center' href='/'>Start Building with Butter</a>
                 </div>
             </div>
             <picture class=''>

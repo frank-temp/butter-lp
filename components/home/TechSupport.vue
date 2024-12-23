@@ -8,7 +8,7 @@
         <article class='static md:absolute top-0 z-10 w-full max-w-[880px] h-full flex flex-col items-center justify-center gap-y-6'>
             <h2>We Support Your Tech Stack</h2>
             <p>Whether you're using a custom tech stack or popular frameworks, ButterCMS integrates seamlessly with your setup.</p>
-            <a class='btn-txt bg-blue-dark capitalize text-white-default w-[100%] max-w-[400px] px-2 py-4 rounded-[100px] text-center cursor-pointer'>See Supported Technologies</a>
+            <a href='/' class='btn-txt bg-blue-dark capitalize text-white-default w-[100%] max-w-[400px] px-2 py-4 rounded-[100px] text-center cursor-pointer'>See Supported Technologies</a>
         </article>
         <div class='flex flex-row flex-wrap md:hidden gap-x-4 gap-y-3 justify-center mt-6'>
             <SvgIosIcon />

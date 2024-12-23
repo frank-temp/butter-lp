@@ -52,7 +52,7 @@
                     <p class='body-small text-grey-default'>Benefit from top-tier support with rapid response times, backed by a large base of satisfied global customers.</p>
                 </div>
             </div>
-            <a href='#' class='btn-txt w-full max-w-[380px] py-4 bg-blue-dark rounded-full text-center text-white-default'>Start Your 14-Day Free Trial</a>
+            <a href='/' class='btn-txt w-full max-w-[380px] py-4 bg-blue-dark rounded-full text-center text-white-default'>Start Your 14-Day Free Trial</a>
         </article>
     </section>
 </template>
