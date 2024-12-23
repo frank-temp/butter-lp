@@ -1,8 +1,8 @@
 <template lang="html">
     <section class='bg-blue-dark w-screen'>
-        <article class='flex flex-col items-center py-8 text-white-default gap-10'>
+        <article class='flex flex-col items-center py-8 text-white-default gap-10 w-full overflow-hidden'>
             <h2 class='text-center px-4 md:px-0'>Powering Over 1,600 sites Worldwide</h2>
-            <div class='flex flex-row gap-20 overflow-hidden'>
+            <div class='flex flex-row gap-20'>
                 <div class='flex flex-row gap-10 animate-infinite-scroll'>
                     <Svg1800Contacts class='w-full' />
                     <SvgSalesForce class='w-full' />
