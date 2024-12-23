@@ -42,7 +42,7 @@
                 </div>
                 <div>
                     <div class='flex flex-row justify-between items-center mb-4'>
-                        <a class='capitalize'>Learn</a>
+                        <span class='capitalize'>Learn</span>
                         <SvgDownArrow />
                     </div>
                     <ul class='flex flex-col gap-y-2'>
@@ -54,7 +54,7 @@
                 </div>
                 <div>
                     <div class='flex flex-row justify-between items-center mb-4'>
-                        <a class='capitalize'>developer tools</a>
+                        <span class='capitalize'>developer tools</span>
                         <SvgDownArrow />
                     </div>
                     <ul class='flex flex-col gap-y-2'>

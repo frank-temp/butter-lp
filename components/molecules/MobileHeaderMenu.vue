@@ -18,31 +18,31 @@
                     </summary>
                     <ul class='w-full flex flex-col gap-4 px-4 py-5'>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgSettingsIcon />
                                 <span>Create & customize</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgSquareDots />
                                 <span>multisite</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgCollaborateIcon />
                                 <span>Collaborate</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgLibraryIcon />
                                 <span>media library</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgApiIcon />
                                 <span>API first</span>
                             </a>
@@ -58,19 +58,19 @@
                     </summary>
                     <ul class='w-full flex flex-col gap-4 px-4 py-5'>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgScreensIcon />
                                 <span>websites</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgEcommerceIcon />
                                 <span>E-Commerce Sites</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgCellphoneIcon />
                                 <span>Mobile Apps</span>
                             </a>
@@ -89,25 +89,25 @@
                             <span class='font-light'>Learn</span>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgPaperIcon />
                                 <span>knowledge base</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgEditIcon />
                                 <span>blog</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgPodcastIcon />
                                 <span>podcast</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgHandIcon />
                                 <span>events</span>
                             </a>
@@ -116,25 +116,25 @@
                             <span class='font-light mt-4'>Developer Tools</span>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgDevIcon />
                                 <span>Developer documentation</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgFileIcon />
                                 <span>API Documentation</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgStatsIcon />
                                 <span>starter projects</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgPlaneIcon />
                                 <span>quick start guide</span>
                             </a>
@@ -150,13 +150,13 @@
                     </summary>
                     <ul class='w-full flex flex-col gap-4 px-4 py-5'>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgSearchIcon />
                                 <span>find a partner</span>
                             </a>
                         </li>
                         <li>
-                            <a class='text-grey-light flex flex-row items-center gap-2 capitalize'>
+                            <a  href='/' class='text-grey-light flex flex-row items-center gap-2 capitalize'>
                                 <SvgUserPlus />
                                 <span>become a partner</span>
                             </a>
@@ -167,9 +167,9 @@
 
             <div class='w-full flex flex-col gap-6'>
                 <div class='w-full flex flex-row items-center justify-between text-sm capitalize font-extrabold'>
-                    <a>pricing</a>
-                    <a>About</a>
-                    <a>Log In</a>
+                    <a href='/' >pricing</a>
+                    <a href='/' >About</a>
+                    <a href='/' >Log In</a>
                 </div>
                 <div class='w-full flex flex-col gap-3 items-center'>
                     <a href='/' class='bg-blue-dark text-white-default p-4 rounded-full w-full'>
