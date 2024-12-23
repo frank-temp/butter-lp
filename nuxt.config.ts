@@ -2,12 +2,17 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      meta: [
-        {
-          name: "viewport",
-          content:"width=device-width, initial-scale=1.0"
-        }
-      ],
+        title: 'buttercms-marketing-site',
+        htmlAttrs: {
+            lang: 'en'
+        },
+        meta: [
+            { charset: 'utf-8' },
+            { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+            { hid: 'description', name: 'description', content: 'A description of your Nuxt project goes here.' },
+            { name: 'author', content: 'buttercms-marketing-site' },
+            { name: 'keywords', content: 'nuxt, vue, ssr, seo, javascript' },
+        ],
       link: [
         {
           rel: 'stylesheet',
@@ -17,12 +22,10 @@ export default defineNuxtConfig({
     }
   },
   compatibilityDate: '2024-11-01',
+  ssr: true,
   devtools: {
     enabled: true,
-
-    timeline: {
-      enabled: true,
-    },
+    timeline: { enabled: true, },
   },
   css: ['~/assets/css/main.css'],
   postcss: {
