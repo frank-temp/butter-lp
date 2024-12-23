@@ -1,6 +1,6 @@
 <template lang="html">
     <footer class='bg-blue-dark'>
-        <div class='px-28 py-10 flex justify-between text-white-default w-[100%]'>
+        <div class='px-4 md:px-28 py-10 flex flex-col md:flex-row justify-between text-white-default w-[100%]'>
             <article class='flex flex-col gap-8'>
                 <a href='#'><SvgButterLogo /></a>
                 <div class='flex gap-6'>
@@ -8,8 +8,8 @@
                     <SvgGhIcon />
                     <SvgGIcon />
                 </div>
-                <span>© 2024 Butter cms™ All rights reserved</span>
-                <img src='/assets/img/footer-certificates.webp' />
+                <span class='hidden md:block'>© 2024 Butter cms™ All rights reserved</span>
+                <img src='/assets/img/footer-certificates.webp' class='w-6/12 md:w-auto mb-4 md:mb-0' />
             </article>
             <article class='flex flex-col gap-y-4'>
                 <div class='flex flex-row justify-between items-center w-[100%]'>

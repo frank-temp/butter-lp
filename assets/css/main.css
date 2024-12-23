@@ -194,9 +194,16 @@ span {
 }
 
 @media (max-width: 768px) {
-    h2 {font-size: 28;}
+    h2 {font-size: 28px;}
+    h5 {font-size: 16px;}
+
+    p {font-size: 16px;}
 
     .body, .inline-link {
         font-size: 12px;
+    }
+
+    .body-small {
+        font-size: 14px;
     }
 }

@@ -33,8 +33,9 @@ export default {
         dark: ''
       },
       grey: {
+        baby: '#D6D6D6',
         light: '#616161',
-        default: '#515151'
+        default: '#515151',
       }
     },
     extend: {},

@@ -187,7 +187,7 @@
 <script setup>
 import { ref } from 'vue'
 
-const open = ref(true)
+const open = ref(false)
 
 function MenuOpen() {
     open.value = !open.value
