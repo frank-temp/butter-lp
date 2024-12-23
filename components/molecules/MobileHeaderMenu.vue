@@ -3,7 +3,7 @@
         <button @click="MenuOpen()">
             <SvgHamburgerMenu />
         </button>
-        <div class='fixed flex flex-col items-center justify-between gap-4 z-50 w-screen h-screen bg-white-default left-0 text-blue-dark p-4 transition-all' :class="[open ? 'top-0' : 'top-[-100%]']">
+        <div class='fixed flex flex-col items-center justify-between gap-4 z-50 w-screen h-screen bg-white-default left-0 text-blue-dark p-4 transition-all' :class="[open ? 'top-0' : 'top-[-150%]']">
             <button class='self-end' @click="MenuOpen()">
                 <SvgCloseIcon />
             </button>
