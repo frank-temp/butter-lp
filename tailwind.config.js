@@ -38,7 +38,17 @@ export default {
         default: '#515151',
       }
     },
-    extend: {},
+    extend: {
+      keyframes: {
+        "infinite-scroll" : {
+          "0%": { transform: 'translateX(0)'},
+          "100%": { transform: 'translateX(-50%)'},
+        }
+      },
+      animation: {
+        "infinite-scroll": 'infinite-scroll 60s linear infinite'
+      }
+    },
   },
   plugins: [],
 }

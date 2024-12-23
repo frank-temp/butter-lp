@@ -194,6 +194,7 @@ span {
 }
 
 @media (max-width: 768px) {
+    h1 {font-size: 38px;}
     h2 {font-size: 28px;}
     h5 {font-size: 16px;}
 
