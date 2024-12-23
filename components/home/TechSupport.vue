@@ -3,7 +3,7 @@
         <picture class='relative hidden md:block'>
             <source media="(max-width:720px)" srcset="~/assets/img/tech-bg-720.webp">
             <source media="(max-width:1440px)" srcset="~/assets/img/tech-bg-1440.webp">
-            <img src="~/assets/img/tech-bg-1920.webp" alt="Techs Background" style="width:auto;">
+            <img src="~/assets/img/tech-bg-1920.webp" alt="Techs Background" width='100%' style="width:auto;">
         </picture>
         <article class='static md:absolute top-0 z-10 w-full max-w-[880px] h-full flex flex-col items-center justify-center gap-y-6'>
             <h2>We Support Your Tech Stack</h2>

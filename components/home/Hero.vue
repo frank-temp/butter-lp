@@ -11,7 +11,7 @@
             </div>
             <picture class=''>
                 <source media="(max-width:720px)" srcset="~/assets/img/hero-Small.webp">
-                <img src="~/assets/img/hero-Big.webp" alt="Hero Image" style="width:auto;">
+                <img src="~/assets/img/hero-Big.webp" alt="Hero Image" width='100%' style="width:auto;">
             </picture>
         </article>
     </section>

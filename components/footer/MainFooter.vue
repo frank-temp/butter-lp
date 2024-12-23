@@ -9,7 +9,7 @@
                     <SvgGIcon />
                 </div>
                 <span class='hidden md:block'>© 2024 Butter cms™ All rights reserved</span>
-                <img src='/assets/img/footer-certificates.webp' alt='Certificates' class='w-6/12 md:w-auto mb-4 md:mb-0' />
+                <img src='/assets/img/footer-certificates.webp' alt='Certificates' width='100%' class='w-6/12 md:w-auto mb-4 md:mb-0' />
             </article>
             <article class='flex flex-col gap-y-4'>
                 <div class='flex flex-row justify-between items-center w-[100%]'>

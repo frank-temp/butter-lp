@@ -178,7 +178,7 @@
                             <SvgNextArrow />
                         </div>
                     </a>
-                    <a class='text-sm underline underline-offset-2 capitalize'>Get a demo</a>
+                    <a class='text-sm underline underline-offset-2 capitalize' href='/'>Get a demo</a>
                 </div>
             </div>
         </div>
