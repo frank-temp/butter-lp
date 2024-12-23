@@ -4,7 +4,7 @@
             <announcement-bar />
             <article class='flex flex-row items-center justify-center bg-blue-dark text-light-default w-full'>
                 <div class='flex items-center justify-between w-full md:max-w-[1440px] px-4 py-3 md:py-0 md:px-28'>
-                    <a href='/' class='cursor-pointer'>
+                    <a href='/' aria-label='ButterCMS' class='cursor-pointer'>
                         <SvgButterLogo />
                     </a>
                     <desktop-header-menu />

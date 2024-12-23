@@ -2,7 +2,7 @@
     <footer class='bg-blue-dark'>
         <div class='px-4 md:px-28 py-10 flex flex-col md:flex-row justify-between text-white-default w-[100%]'>
             <article class='flex flex-col gap-8'>
-                <a href='/'><SvgButterLogo /></a>
+                <a href='/' aria-label='ButterCMS'><SvgButterLogo /></a>
                 <div class='flex gap-6'>
                     <SvgXIcon />
                     <SvgGhIcon />
