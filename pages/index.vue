@@ -1,4 +1,4 @@
-<template lang="html">
+<template lang="en">
     <main class=''>
         <hero />
         <first-scroll />

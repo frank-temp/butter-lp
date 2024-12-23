@@ -1,4 +1,4 @@
-<template lang="html">
+<template lang="en">
     <div class='main-layout'>
         <main-header />
         <slot />
