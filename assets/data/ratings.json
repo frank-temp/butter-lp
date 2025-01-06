@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "picture": "nikhil-m.png",
+        "testimonial": "ButterCMS is simple and elegant!With it’s UI and UX is so easy to understand the gist of the whole product!",
+        "user_name": "Nikhil M.",
+        "position": "",
+        "business_size": "Mid-Market (51-1000 emp.)"
+    },
+    {
+        "id": 2,
+        "picture": "fabio-dr.png",
+        "testimonial": "I use Butter CMS every day for my work. It is incredibly user-friendly and allows me to switch between tasks easily.",
+        "user_name": "Fabio D. R.",
+        "position": "Research Associate",
+        "business_size": "Small-Business (50 or fewer emp.)"
+    },
+    {
+        "id": 3,
+        "picture": "brad-s.png",
+        "testimonial": "ButterCms is our choice. The implementation was simple and intuitive, with plenty of support.",
+        "user_name": "Brad S.",
+        "position": "Team Lead | Front-End Developer",
+        "business_size": "Enterprise (> 1000 emp.)"
+    },
+    {
+        "id": 4,
+        "picture": "eliot-l.png",
+        "testimonial": "One of the standout features of Butter CMS is its incredible ease of use.",
+        "user_name": "Eliot L.",
+        "position": "Business Operations Manager",
+        "business_size": "Small-Business(50 or fewer emp.)"
+    },
+    {
+        "id": 5,
+        "picture": "ulas-k.png",
+        "testimonial": "ButterCMS provides the flexibility and the speed of a headless CMS  with a great user interface easy to use.",
+        "user_name": "Ulaş K.",
+        "position": "Software Engineer",
+        "business_size": "Small-Business(50 or fewer emp.)"
+    },
+    {
+        "id": 6,
+        "picture": "matthew-b.png",
+        "testimonial": "This is a true headless CMS, and it really provides great functionality for the creative staff. The integration is simple. ",
+        "user_name": "Matthew B.",
+        "position": "CEO/CTO",
+        "business_size": "Small-Business(50 or fewer emp.)"
+    },
+    {
+        "id": 7,
+        "picture": "michael-p.png",
+        "testimonial": "Of the CMS solutions I tried, ButterCMS was the most intuitive and straightforward to use.",
+        "user_name": "Michael P.",
+        "position": "",
+        "business_size": "Mid-Market (51-1000 emp.)"
+    }
+]
