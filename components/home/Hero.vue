@@ -10,7 +10,7 @@
                 </div>
             </div>
             <picture class=''>
-                <source media="(max-width:720px)" srcset="~/assets/img/hero-Small.webp">
+                <source media="(max-width:720px)" srcset="~/assets/img/hero-Small.webp" alt="Hero Image" style="width:auto;" data-twe-lazy-src>
                 <img src="~/assets/img/hero-Big.webp" alt="Hero Image" width='100%' style="width:auto;" data-twe-lazy-src>
             </picture>
         </article>
