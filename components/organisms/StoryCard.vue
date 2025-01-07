@@ -1,5 +1,5 @@
 <template lang="html">
-    <article v-if="(story.type === 'left')" class='rounded-[10px] p-6 bg-gradient-blue-lg min-w-[450px] flex flex-col gap-4 items-start justify-start'>
+    <article v-if="(story.type === 'left')" class='rounded-[10px] p-6 bg-gradient-blue-lg min-w-[90%] md:min-w-[450px] flex flex-col gap-4 items-start justify-start'>
         <div class='flex flex-col items-start justify-start gap-4'>
             <div class='flex flex-row gap-4 items-center justify-center'>
                 <img class='w-10 h-10 rounded-full' :src="story.picture" />
@@ -20,7 +20,7 @@
             <span class='font-[400]'>{{ story.position }}</span>
         </div>
         <img class='h-[20px] z-[2]' :src="story.logo" />
-        <img class='absolute z-[0] ' :src="story.background" />
+        <img v-if="(story.background.length > 0)" class='absolute z-[0] w-full h-full' :src="story.background" />
     </article>
 </template>
 <script setup>
