@@ -206,6 +206,11 @@ span {
     scrollbar-width: none;  /* Firefox */
 }
 
+.carousel__slide {
+    display: flex;
+    gap: 24px;
+}
+
 @media (max-width: 768px) {
     h1 {font-size: 38px;}
     h2 {font-size: 28px;}
