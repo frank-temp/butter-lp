@@ -197,6 +197,15 @@ span {
     background: linear-gradient(180deg, #222E62 0%, #0A2A83 48%, #3E5BAD 100%);
 }
 
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
 @media (max-width: 768px) {
     h1 {font-size: 38px;}
     h2 {font-size: 28px;}

@@ -20,7 +20,7 @@
                 </div>
                 <h2 class='text-center'>6,500+ Sites Rely on ButterCMS for Success</h2>
             </article>
-            <article class='mt-8 flex flex-row gap-x-6 justify-start pl-4 md:pl-32 pr-4 md:pr-32 flex-nowrap w-full overflow-x-scroll'>
+            <article class='mt-8 flex flex-row gap-x-6 justify-start pl-4 md:pl-32 pr-4 md:pr-32 flex-nowrap w-full overflow-x-scroll no-scrollbar'>
                 <rating-card v-for="item in data" :id="item.id" :user="item" :key="item.id" />
             </article>
         </div>
