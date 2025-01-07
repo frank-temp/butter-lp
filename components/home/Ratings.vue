@@ -1,5 +1,5 @@
 <template lang="html">
-    <section class='w-screen bg-blue-dark text-white-default py-14 overflow-hidden'>
+    <section class='w-screen bg-blue-dark text-white-default py-14 overflow-hidden flex items-center justify-center'>
         <div class='w-full max-w-full md:max-w-[1440px] flex flex-col items-center justify-start'>
             <article class='w-full flex flex-col items-center justify-center px-4 md:px-32 gap-y-6'>
                 <div class='flex flex-row items-center gap-3 py-2 px-3 rounded-[8px] bg-[rgba(255,255,255,.1)]'>
