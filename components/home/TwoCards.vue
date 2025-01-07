@@ -5,7 +5,7 @@
             <div class='hidden md:flex md:flex-row justify-center gap-10'>
                 <div class='bg-blue-dark text-white-default px-4 md:px-8 py-6 md:py-8 flex flex-col rounded-[10px]'>
                     <div>
-                        <h4 class='mb-6 hidden md:block'>Marketers</h4>
+                        <h5 class='mb-6 hidden md:block'>Marketers</h5>
                         <ul class='flex flex-col gap-3'>
                             <li class='flex flex-row items-start md:items-center gap-1'>
                                 <SvgCheckMark width='22px' class='mt-[5px] md:mt-auto' />
@@ -50,7 +50,7 @@
                 </div>
                 <div class='bg-blue-light text-blue-dark px-4 md:px-8 py-6 md:py-8 flex flex-col rounded-[10px]'>
                     <div>
-                        <h4 class='mb-6 hidden md:block'>Developers</h4>
+                        <h5 class='mb-6 hidden md:block'>Developers</h5>
                         <ul class='flex flex-col gap-3'>
                             <li class='flex flex-row items-start md:items-center gap-1'>
                                 <SvgCheckMark width='22px' class='mt-[5px] md:mt-auto' />
@@ -109,7 +109,7 @@
                 <div class='hidden peer-checked/tab-one:block mt-6'>
                     <div class='bg-blue-dark text-white-default px-4 md:px-8 py-6 md:py-8 flex flex-col rounded-[10px]'>
                         <div>
-                            <h4 class='mb-6 hidden md:block'>Marketers</h4>
+                            <h5 class='mb-6 hidden md:block'>Marketers</h5>
                             <ul class='flex flex-col gap-3'>
                                 <li class='flex flex-row items-start md:items-center gap-1'>
                                     <SvgCheckMark width='22px' class='mt-[5px] md:mt-auto' />
@@ -156,7 +156,7 @@
                 <div class='hidden peer-checked/tab-two:block mt-6'>
                     <div class='bg-blue-light text-blue-dark px-4 md:px-8 py-6 md:py-8 flex flex-col rounded-[10px]'>
                         <div>
-                            <h4 class='mb-6 hidden md:block'>Developers</h4>
+                            <h5 class='mb-6 hidden md:block'>Developers</h5>
                             <ul class='flex flex-col gap-3'>
                                 <li class='flex flex-row items-start md:items-center gap-1'>
                                     <SvgCheckMark width='22px' class='mt-[5px] md:mt-auto' />
