@@ -11,7 +11,7 @@
             <p :class="`${story.font_size}`" class='font-[700]'>"{{ story.testimonial }}"</p>
             <p class='text-[14px] font-[400]'>{{ story.sub }}</p>
         </div>
-        <img class='h-[30px]' :src="story.logo" />
+        <img class='h-[30px]' :src="story.logo" :alt="story.user_name" />
     </article>
     <article v-else class='relative bg-gradient-blue-linear p-6 rounded-[10px] min-w-[335px] text-white-default text-center flex flex-col gap-4 items-center justify-center'>
         <p :class="`${story.font_size}`" class='font-[700] z-[2]'>"{{ story.testimonial }}"</p>
