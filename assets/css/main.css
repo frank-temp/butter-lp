@@ -193,6 +193,10 @@ span {
     background: radial-gradient(50% 50% at 50% 50%, #D7DEF6 0%, #F3F3F5 100%);
 }
 
+.bg-gradient-blue-linear {
+    background: linear-gradient(180deg, #222E62 0%, #0A2A83 48%, #3E5BAD 100%);
+}
+
 @media (max-width: 768px) {
     h1 {font-size: 38px;}
     h2 {font-size: 28px;}

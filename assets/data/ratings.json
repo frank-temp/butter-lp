@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "/img/clients/nikhil-m.png",
+        "picture": "/img/clients/nikhil-m.webp",
         "testimonial": "ButterCMS is simple and elegant!With it’s UI and UX is so easy to understand the gist of the whole product!",
         "user_name": "Nikhil M.",
         "position": "",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "picture": "/img/clients/fabio-dr.png",
+        "picture": "/img/clients/fabio-dr.webp",
         "testimonial": "I use Butter CMS every day for my work. It is incredibly user-friendly and allows me to switch between tasks easily.",
         "user_name": "Fabio D. R.",
         "position": "Research Associate",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "picture": "/img/clients/brad-s.png",
+        "picture": "/img/clients/brad-s.webp",
         "testimonial": "ButterCms is our choice. The implementation was simple and intuitive, with plenty of support.",
         "user_name": "Brad S.",
         "position": "Team Lead | Front-End Developer",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "picture": "/img/clients/eliot-l.png",
+        "picture": "/img/clients/eliot-l.webp",
         "testimonial": "One of the standout features of Butter CMS is its incredible ease of use.",
         "user_name": "Eliot L.",
         "position": "Business Operations Manager",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "picture": "/img/clients/ulas-k.png",
+        "picture": "/img/clients/ulas-k.webp",
         "testimonial": "ButterCMS provides the flexibility and the speed of a headless CMS  with a great user interface easy to use.",
         "user_name": "Ulaş K.",
         "position": "Software Engineer",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "picture": "/img/clients/matthew-b.png",
+        "picture": "/img/clients/matthew-b.webp",
         "testimonial": "This is a true headless CMS, and it really provides great functionality for the creative staff. The integration is simple. ",
         "user_name": "Matthew B.",
         "position": "CEO/CTO",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "picture": "/img/clients/michael-p.png",
+        "picture": "/img/clients/michael-p.webp",
         "testimonial": "Of the CMS solutions I tried, ButterCMS was the most intuitive and straightforward to use.",
         "user_name": "Michael P.",
         "position": "",

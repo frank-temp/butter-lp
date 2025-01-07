@@ -7,6 +7,7 @@
         <two-cards />
         <ratings />
         <tech-support />
+        <stories />
         <start-building />
     </main>
 </template>
@@ -19,6 +20,7 @@ import SpreadTheWord from '~/components/home/SpreadTheWord.vue'
 import Hero from '~/components/home/Hero.vue'
 import FirstScroll from '~/components/home/FirstScroll.vue'
 import Ratings from '~/components/home/Ratings.vue'
+import Stories from '~/components/home/Stories.vue'
 
 export default {
     components: {
@@ -29,7 +31,8 @@ export default {
             OnlyText,
             TwoCards,
             SpreadTheWord,
-            Ratings
+            Ratings,
+            Stories
         }
 }
 </script>
