@@ -1,4 +1,4 @@
-<template lang="">
+<template lang="html">
     <section class='flex flex-col md:gap-8 items-center justify-center w-screen overflow-hidden text-center md:text-left'>
         <article class='flex flex-col md:gap-6 items-center justify-center text-blue-dark px-4 md:px-28'>
             <h2>Success Stories from Top Innovators</h2>

@@ -8,13 +8,13 @@
                     <span class='font-[400]'>{{ story.position }}</span>
                 </div>
             </div>
-            <p :class="`font-[700]`" style="{'font-size': story.font_size }">"{{ story.testimonial }}"</p>
+            <p :class="`${story.font_size}`" class='font-[700]'>"{{ story.testimonial }}"</p>
             <p class='text-[14px] font-[400]'>{{ story.sub }}</p>
         </div>
         <img class='h-[30px]' :src="story.logo" />
     </article>
     <article v-else class='relative bg-gradient-blue-linear p-6 rounded-[10px] min-w-[335px] text-white-default text-center flex flex-col gap-4 items-center justify-center'>
-        <p :class="`text-[${story.font_size}] font-[700] z-[2]`">"{{ story.testimonial }}"</p>
+        <p :class="`${story.font_size}`" class='font-[700] z-[2]'>"{{ story.testimonial }}"</p>
         <div class='flex flex-col items-center justify-center z-[2] text-[14px]'>
             <span class='font-[700]'>{{ story.user_name }}</span>
             <span class='font-[400]'>{{ story.position }}</span>

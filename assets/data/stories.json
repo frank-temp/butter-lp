@@ -7,7 +7,7 @@
         "user_name": "Justin Ludlow",
         "position": "CTO of RadialSpark",
         "logo": "/img/stories/t-radial-spark.png",
-        "font_size": "34px"
+        "font_size": "text-[34px]"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "position": "Senior Analytics Engineer",
         "logo": "/img/stories/t-rapid-ai.png",
         "background": "/img/stories/rapid-ai-bg.webp",
-        "font_size": "26px"
+        "font_size": "text-[26px]"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "user_name": "Jamey Meeker",
         "position": "Marketing Director",
         "logo": "/img/stories/t-role-model-software.png",
-        "font_size": "18px",
+        "font_size": "text-[18px]",
         "sub": "Our ability to make content changes with ButterCMS and maintain rich control over our content while reducing developer involvement was a big win."
     },
     {
@@ -38,7 +38,7 @@
         "position": "Director of Programs",
         "logo": "/img/stories/t-atlas-bench.png",
         "background": "",
-        "font_size": "18px"
+        "font_size": "text-[18px]"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "testimonial": "The user interface is simple and it’s very straightforward. We feel confident handing it to our clients, knowing that they’re not going to struggle using it. All of our clients love it.",
         "user_name": "Joe Hochgreve",
         "position": "Web Development Lead",
-        "font_size": "20px",
+        "font_size": "text-[20px]",
         "logo": "/img/stories/t-tmv-group.png"
     },
     {
@@ -58,6 +58,6 @@
         "position": "CTO",
         "logo": "/img/stories/t-skylight-frame.png",
         "background": "/img/stories/skylight-bg.webp",
-        "font_size": "20px"
+        "font_size": "text-[20px]"
     }
 ]
